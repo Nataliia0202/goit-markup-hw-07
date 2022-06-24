@@ -103,7 +103,7 @@
 
 .form-modal__textarea {
     &:focus, &:hover {
-        outline: none;
+        outline: transparent;
         border: 1px solid $accent-color;
     }
 }
